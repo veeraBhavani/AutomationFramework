@@ -1,0 +1,5 @@
+url=http://whiteboxqa.com/index.php
+browser=Firefox
+wait=30
+takescreenshot=true
+logging=true

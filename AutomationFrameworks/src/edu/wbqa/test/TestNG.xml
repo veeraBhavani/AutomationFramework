@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://whiteboxqa.com/index.php-1.0.dtd" >
+ <?xml version "1.0" encoding "UTF-8"?>
+<suite name="Suite1" Parallel="False" >
+  <test name="FunctionalTest">
+    <classes>
+      <class name="edu.wbqa.HomePageTest"/>
+      <class name="edu.wbqa.ContactTest"/>
+    </classes>
+  </test>
+</suite>
